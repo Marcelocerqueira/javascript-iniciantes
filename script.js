@@ -1,11 +1,35 @@
-var horas = 18
+
+const nome = { nome: 'marcelo', sobre: 'mal' }
+
+console.log(nome)
 
 
-if (horas == 12 || horas == 18) {
-  console.log('Voce esta nahora do rosh')
-} else {
-  console.log(' Você ainda nao esta na horas')
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// var horas = 18
+
+
+// if (horas == 12 || horas == 18) {
+//   console.log('Voce esta nahora do rosh')
+// } else {
+//   console.log(' Você ainda nao esta na horas')
+// }
 
 // if (horas < 12) {
 //   console.log('Bom dia')
