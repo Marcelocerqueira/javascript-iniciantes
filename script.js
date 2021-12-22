@@ -1,7 +1,5 @@
 
-const nome = { nome: 'marcelo', sobre: 'mal' }
-
-console.log(nome)
+document.getElementById('exemplo')
 
 
 
